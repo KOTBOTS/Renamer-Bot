@@ -9,7 +9,7 @@ class Scripted(object):
 
 
     HELP_TEXT = """
-<i>𝐖𝐚𝐭𝐜𝐡 𝐕𝐢𝐝𝐞𝐨 𝐇𝐨𝐰 𝐭𝐨 𝐔𝐬𝐞 𝐌𝐞 <a href='https://youtu.be/HnXdu74o34E'>[ ᴄʟɪᴄᴋ ʜᴇʀᴇ ]</a></i>\n
+<i>𝐖𝐚𝐭𝐜𝐡 𝐕𝐢𝐝𝐞𝐨 𝐇𝐨𝐰 𝐭𝐨 𝐔𝐬𝐞 𝐌𝐞 <a href='https://t.me/KING_OF_THE_CARTOONS_CHANNEL'>[ ᴄʟɪᴄᴋ ʜᴇʀᴇ ]</a></i>\n
 <i>𝐒𝐞𝐧𝐝 𝐚 𝐩𝐡𝐨𝐭𝐨 𝐭𝐨 𝐦𝐚𝐤𝐞 𝐢𝐭 𝐚𝐬 𝐭𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥 (optional)</i>\n
 <i>𝐒𝐞𝐧𝐝 𝐦𝐞 𝐚𝐧𝐲 𝐟𝐢𝐥𝐞 (or) 𝐌𝐞𝐝𝐢𝐚 𝐟𝐫𝐨𝐦 𝐭𝐞𝐥𝐞𝐠𝐫𝐚𝐦</i>\n
 <i>𝐂𝐨𝐧𝐯𝐞𝐫𝐭 𝐟𝐢𝐥𝐞𝐬 𝐢𝐧𝐭𝐨 𝐯𝐢𝐝𝐞𝐨 𝐮𝐬𝐞 /convert 𝐜𝐨𝐦𝐦𝐚𝐧𝐝</i>\n
@@ -19,15 +19,15 @@ class Scripted(object):
 
 
     ABOUT_TEXT = """
-<b>🤖 𝐌𝐲 𝐍𝐚𝐦𝐞 : <a href='https://t.me/Renamer_teleroid_bot'>Rename X2 Bot</a></b>\n
-<b>📢 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 : <a href='https://t.me/TeleRoidGroup'>TÉLÉRØÎD</a></b>\n
-<b>👥 𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐕𝟐 : <a href='https://t.me/TeleRoid_Renamer_bot'>0.9.2 beta</a></b>\n
-<b>📥 𝐒𝐨𝐮𝐫𝐜𝐞 : <a href='https://github.com/P-Phreak/Renamer-bot'>Click Here</a></b>\n
+<b>🤖 𝐌𝐲 𝐍𝐚𝐦𝐞 : <a href='https://t.me/KOT_Renamer_X1_bot'>KOT Rename X1 Bot</a></b>\n
+<b>📢 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 : <a href='https://t.me/KOT_BOTS'>ᴋᴏᴛ ʙᴏᴛ</a></b>\n
+<b>👥 𝐕𝐞𝐫𝐬𝐢𝐨𝐧 X1 : <a href='https://t.me/KOT_Renamer_X1_bot'>0.9.2 beta</a></b>\n
+<b>📥 𝐒𝐨𝐮𝐫𝐜𝐞 : <a href='https://t.me/KING_OF_THE_CARTOONS_CHANNEL'>Click Here</a></b>\n
 <b>🌐 𝐒𝐞𝐫𝐯𝐞𝐫 : <a href='https://heroku.com'>Heroku</a></b>\n
 <b>📕 𝐋𝐢𝐛𝐫𝐚𝐫𝐲 : <a href='https://github.com/pyrogram'>Pyrogram 1.2.8</a></b>\n
 <b>㊙ 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞  : <a href='https://www.python.org'>Python 3.9.4</a></b>\n
-<b>👨‍💻 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 : <a href='https://t.me/PredatorHackerzZ_bot'>꧁ ƤℜɆĐ₳₮Øℜ 🇮🇳 ꧂</a></b>\n
-<b>📌 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : <a href='https://t.me/Moviesflixers_DL'>Tᴀᴍɪʟᴡᴇʙ Tɢ Nᴇᴛᴡᴏʀᴋ</a></b>\n"""
+<b>👨‍💻 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 : <a href='https://t.me/KOT_FREE_DE_LA_HOYA_OFF'>ᴋᴏᴛ ᴅᴇᴠᴇʟᴏᴩᴇʀ</a></b>\n
+<b>📌 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : <a href='https://t.me/KOT_BOTS'>Tᴀᴍɪʟᴡᴇʙ Tɢ Nᴇᴛᴡᴏʀᴋ</a></b>\n"""
 
 
     CUSTOM_CAPTION = "<i>{}</i>"
