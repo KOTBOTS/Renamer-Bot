@@ -39,7 +39,7 @@ class Scripted(object):
     THUMBNAIL_DELETED = "<i>𝐘𝐨𝐮𝐫 𝐓𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥 𝐃𝐞𝐥𝐞𝐭𝐞𝐝 ✅</i>"
     NO_THUMBNAIL_FOUND = "<i>𝐍𝐨 𝐓𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥 𝐅𝐨𝐮𝐧𝐝 (𝐊𝐨𝐧𝐬𝐢 𝐆𝐚𝐚𝐥𝐢 𝐂𝐡𝐚𝐡𝐢𝐲𝐞)😔</i>"
     TRYING_TO_DOWNLOAD = "<i>𝐓𝐫𝐲𝐢𝐧𝐠 𝐓𝐨 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝....</i>"
-    UPLOAD_SUCCESS = "<u><i>𝕿𝖍𝖆𝖓𝖐𝖘 𝖋𝖔𝖗 𝖚𝖘𝖎𝖓𝖌 𝖒𝖊𝖍 𝖇𝖔𝖙 ❤ @TheTeleRoid</i></u>"
+    UPLOAD_SUCCESS = "<u><i>𝕿𝖍𝖆𝖓𝖐𝖘 𝖋𝖔𝖗 𝖚𝖘𝖎𝖓𝖌 𝖒𝖊𝖍 𝖇𝖔𝖙 ❤ @KOT_BOTS</i></u>"
     REPLY_TO_MEDIA = "<i>𝐑𝐞𝐩𝐥𝐲 𝐭𝐨 𝐭𝐡𝐚𝐭 𝐌𝐞𝐝𝐢𝐚 𝐰𝐢𝐭𝐡 /convert</i>"
     UPLOAD_START = "<i>📤 𝐔𝐩𝐥𝐨𝐚𝐝𝐢𝐧𝐠 𝐲𝐨𝐮𝐫 𝐟𝐢𝐥𝐞 𝐩𝐥𝐞𝐚𝐬𝐞 𝐰𝐚𝐢𝐭...</i>\n"
     DOWNLOAD_START = "<i>📥 𝐃𝐨𝐰𝐧𝐥𝐨𝐝𝐢𝐧𝐠 𝐲𝐨𝐮𝐫 𝐟𝐢𝐥𝐞 𝐩𝐥𝐞𝐚𝐬𝐞 𝐰𝐚𝐢𝐭...</i>\n"
