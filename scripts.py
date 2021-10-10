@@ -27,7 +27,7 @@ class Scripted(object):
 <b>📕 𝐋𝐢𝐛𝐫𝐚𝐫𝐲 : <a href='https://github.com/pyrogram'>Pyrogram 1.2.8</a></b>\n
 <b>㊙ 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞  : <a href='https://www.python.org'>Python 3.9.4</a></b>\n
 <b>👨‍💻 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 : <a href='https://t.me/KOT_FREE_DE_LA_HOYA_OFF'>ᴋᴏᴛ ᴅᴇᴠᴇʟᴏᴩᴇʀ</a></b>\n
-<b>📌 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : <a href='https://t.me/KOT_BOTS'>Tᴀᴍɪʟᴡᴇʙ Tɢ Nᴇᴛᴡᴏʀᴋ</a></b>\n"""
+<b>📌 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : <a href='https://t.me/KOT_BOTS'>ᴋᴏᴛ ʙᴏᴛ</a></b>\n"""
 
 
     CUSTOM_CAPTION = "<i>{}</i>"
