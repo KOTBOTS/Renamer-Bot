@@ -32,8 +32,8 @@ async def start(bot, update):
           text=Scripted.START_TEXT,
           parse_mode="html",
           disable_web_page_preview=True,
-          reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton(text='⭕ ᴄʜᴀɴɴᴇʟ ⭕', url=f'https://t.me/{Config.UPDATE_CHANNEL}'),
-                                                 InlineKeyboardButton(text='⭕ sᴜᴘᴘᴏʀᴛ ⭕', url=f'https://t.me/{Config.UPDATE_GROUP}') ],
+          reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton(text='⭕ ᴄʜᴀɴɴᴇʟ ⭕', url=f'https://t.me/KOT_BOTS'),
+                                                 InlineKeyboardButton(text='⭕ sᴜᴘᴘᴏʀᴛ ⭕', url=f'https://t.me/KOT_REPORS') ],
                                                [ InlineKeyboardButton(text='🔐 ᴄʟᴏꜱᴇ 🔐', callback_data='DM') ] ] ) )
 
 
