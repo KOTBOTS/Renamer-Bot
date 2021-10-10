@@ -1,1 +1,1 @@
-#https://github.com/PredatorHackerzZ/RENAMER-BOT
+#https://github.com/KOT/RENAMER-BOT
