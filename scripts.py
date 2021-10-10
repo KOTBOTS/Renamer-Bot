@@ -47,4 +47,4 @@ class Scripted(object):
     REPLY_TO_FILE = "<i>𝐑𝐞𝐩𝐥𝐲 𝐭𝐨 𝐭𝐡𝐚𝐭 𝐟𝐢𝐥𝐞 𝐰𝐢𝐭𝐡 /rename 𝐧𝐞𝐰 𝐧𝐚𝐦𝐞 .𝐞𝐱𝐭</i>"
     CONTACT_MY_DEVELOPER = "<i>𝕾𝖔𝖒𝖊𝖙𝖍𝖎𝖓𝖌 𝖂𝖗𝖔𝖓𝖌 𝕮𝖔𝖓𝖙𝖆𝖈𝖙 𝕸𝖞 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗 🤯</i>"
     START_TEXT = "<i>𝕿𝖍𝖎𝖘 𝖎𝖘 𝖆 𝕾𝖎𝖒𝖕𝖑𝖊 𝖋𝖎𝖑𝖊 𝖗𝖊𝖓𝖆𝖒𝖊𝖗 & 𝕱𝖎𝖑𝖊 𝕮𝖔𝖓𝖛𝖊𝖗𝖙𝖊𝖗 𝖇𝖔𝖙 𝖜𝖎𝖙𝖍 𝖕𝖊𝖗𝖒𝖆𝖓𝖊𝖓𝖙 𝖙𝖍𝖚𝖒𝖇𝖓𝖆𝖎𝖑 𝖘𝖚𝖕𝖕𝖔𝖗𝖙 💯</i>"
-    UPGRADE_TEXT = "<b>To upgrade your subscription <a href='https://t.me/TeleRoid14'>[ 𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞 ]</a></b>"
+    UPGRADE_TEXT = "<b>To upgrade your subscription <a href='https://t.me/KING_OF_THE_CARTOONS_CHANNEL'>[ 𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞 ]</a></b>"
